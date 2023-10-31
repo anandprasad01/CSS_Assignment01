@@ -1,0 +1,35 @@
+
+h1{
+    color: brown;
+}
+.title{
+    color: orangered;
+}
+.l1{
+    color: #b30000;
+    padding: 10px;
+    font-size: 17px;
+    
+}
+#a1{
+background-color: yellow;
+}
+#a2{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#a3{
+    background-color: yellow;
+}
+.l2{
+    color: #b30000;
+    letter-spacing: 3px;
+}
+.p1{
+    color: #b30000;
+    padding-bottom: 30px;
+}
+a{
+    background-color: yellow;
+    color: red;
+}
